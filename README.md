@@ -2,38 +2,40 @@
 
 ## Table of Contents
 
+- [Goal](#goal)
 - [Description](#description)
 - [Features](#features)
 - [Technology Used](#technology-used)
 - [Project Demo](#project-demo)
 
+## Goal
+My objective was to practise my backend skills using node.js and mongoDB through a practical project. I also found it interesting to practise MVC design pattern.
+
 ## Description 
 A website that provides user to create, edit and remove new data in a database. This type service is helpful for users who would like to have employees management system in their store for example.
 
 ## Features 
-- Both Patient and Dcotor can sign up and have an account on the Website which can be edited later on.
-- Patient can book any appointment with doctors and appointments appear in their profile.
-- Doctors can offer appointments on the website to be available for patients to book, both booked and unbooked appointments appear in the Doctor profile.
-- A chat between Doctors and Patients is available through the website using E-mail.
-- Patients are allowed to send feedback to the hospital without writing any personal data.
-- The website provides tips through theraputic training videos for patients with accounts only.
-- The opening page provides a lot of information to the customer like the Doctors' names and specialties and teh hospital numbers of patients, doctors, appointments, feedbacks, etc.. .
-- The application can be resized easily without messing up your UI.
+- Website owner can add data to his/her datasheet, this data contains name, email, gender and status of this user.
+- He/she can easily update the data of each person.
+- Finally, web owner can delete permenantly any data in the sheet
 
 ## Technology Used:
 The Web Application is built using:
 - Front-end
   - JavaScript
   - CSS
-  - html
+  - ejs
 - Backend:
-  - Flask (Python)
+  - Node.js (Python)
 - Database:
-  - MySQL
+  - MongoDB
 
 ## Project Demo
 
 ## Screenshots
+![front page](https://user-images.githubusercontent.com/90320433/225215173-9c8458b0-c346-4ee6-a075-28592f548e07.png)
+![adding new user](https://user-images.githubusercontent.com/90320433/225215197-7373d1c7-6f76-4e28-8db9-7ed120a972de.png)
+![updating existing data](https://user-images.githubusercontent.com/90320433/225215235-ea8ea57a-ab69-4d39-b57a-aa1d85fa14f7.png)
 
 
-All rights reserved © 2022 to Team 8 - Systems & Biomedical Engineering, Cairo University (Class 2024)
+All rights reserved to this tutorial (video)[https://www.youtube.com/watch?v=W1Kttu53qTg&list=LL&index=160]
