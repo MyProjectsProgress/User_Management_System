@@ -38,4 +38,4 @@ The Web Application is built using:
 ![updating existing data](https://user-images.githubusercontent.com/90320433/225215235-ea8ea57a-ab69-4d39-b57a-aa1d85fa14f7.png)
 
 
-All rights reserved to this tutorial (video)[https://www.youtube.com/watch?v=W1Kttu53qTg&list=LL&index=160]
+All rights reserved to this tutorial [video](https://www.youtube.com/watch?v=W1Kttu53qTg&list=LL&index=160)
