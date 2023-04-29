@@ -32,6 +32,10 @@ The Web Application is built using:
 
 ## Project Demo
 
+
+https://user-images.githubusercontent.com/90320433/235321050-b8a2b730-b2ff-4a3f-928d-32e9ea78c2a4.mp4
+
+
 ## Screenshots
 ![front page](https://user-images.githubusercontent.com/90320433/225215173-9c8458b0-c346-4ee6-a075-28592f548e07.png)
 ![adding new user](https://user-images.githubusercontent.com/90320433/225215197-7373d1c7-6f76-4e28-8db9-7ed120a972de.png)
